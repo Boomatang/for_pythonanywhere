@@ -7,5 +7,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'With a little bit of know how, and its my site on pythonanywhere.com'
+    return 'Just playing around with git'
+
 
